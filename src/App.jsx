@@ -1,6 +1,6 @@
 
 import Home from "./Components/Home";
-import "./Components/styles.css";
+import "./Components/Styles.css";
 import Cart from "./Components/Cart";
 import Products1 from "./Components/Products1";
 import {  HashRouter, Route, Routes } from "react-router-dom";
